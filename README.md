@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Santiago 
 - I'm a chemical engineer with a Master's degree in Food Technology.
-- I'm interested in innovating food processes using my knowledge from chemical engineering and by applying digital tools. My interests have pushed me to learn how to model real processes using mainly Python and some Matlab.
-- I'm currently helping with education and developing material for a new course on Process Control for the department of Food Process Engineering at Wageningen University & Research in the Netherlands.
